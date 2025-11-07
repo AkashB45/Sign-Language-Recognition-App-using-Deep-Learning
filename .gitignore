@@ -1,0 +1,128 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+
+# --- Node / React ---
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.production
+.env.development
+coverage/
+.cache/
+.npm/
+.vscode/
+.idea/
+*.log
+
+# --- Python / Flask ---
+__pycache__/
+*.pyc
+instance/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env/
+venv/
+.venv/
+.env.bak
+.env.old
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+
+# --- Machine Learning Model / Data ---
+model.pkl
+model.joblib
+*.h5
+*.pt
+*.pkl
+*.csv
+*.xlsx
+data/
+datasets/
+trained_models/
+
+# --- Deployment / System Files ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# --- Secrets and API Keys ---
+*.pem
+*.key
+*.crt
+secrets.json
+firebaseConfig.js
+config.js
+config.json
+email_credentials.json
+auth_credentials.json
+
+# --- Logs and temp ---
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Environment / IDE ---
+.envrc
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# --- Build Artifacts ---
+/build/
+/dist/
+/out/

@@ -1,0 +1,63 @@
+name: signapp
+description: Sign language to speech and speech to sign app
+publish_to: "none"
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+  flutter: ">=3.13.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+
+  camera: ^0.11.2
+
+  # TTS for speech output
+  flutter_tts: ^4.2.3
+
+  # Speech recognition
+  speech_to_text: ^7.3.0
+
+  # State management (optional)
+  provider: ^6.0.7
+  csv: ^6.0.0
+  permission_handler: ^11.3.1
+  image: ^4.0.17
+  vector_math: ^2.2.0
+  tflite_flutter: ^0.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_logo.png"
+  adaptive_icon_background: "#121212"
+  adaptive_icon_foreground: "assets/icon/app_logo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/gifs/
+    - assets/signs/
+    - assets/models/
+    - assets/dictionary/
+    - assets/models/model.tflite
+    - assets/models/label.csv
+    - assets/icon/app_logo.png
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-Italic.ttf
+          style: italic
+
+

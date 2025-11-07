@@ -1,0 +1,50 @@
+const Map<String, String> mapping = {
+  // Words (GIFs)
+  "hello": "assets/gifs/hello.gif",
+  "good": "assets/gifs/good.gif",
+  "morning": "assets/gifs/morning.gif",
+  "you": "assets/gifs/you.gif",
+
+  // Letters
+  "a": "assets/signs/a.png",
+  "b": "assets/signs/b.png",
+  "c": "assets/signs/c.png",
+  "d": "assets/signs/d.png",
+  "e": "assets/signs/e.png",
+  "f": "assets/signs/f.png",
+  "g": "assets/signs/g.png",
+  "h": "assets/signs/h.png",
+  "i": "assets/signs/i.png",
+  "j": "assets/signs/j.png",
+  "k": "assets/signs/k.png",
+  "l": "assets/signs/l.png",
+  "m": "assets/signs/m.png",
+  "n": "assets/signs/n.png",
+  "o": "assets/signs/o.png",
+  "p": "assets/signs/p.png",
+  "q": "assets/signs/q.png",
+  "r": "assets/signs/r.png",
+  "s": "assets/signs/s.png",
+  "t": "assets/signs/t.png",
+  "u": "assets/signs/u.png",
+  "v": "assets/signs/v.png",
+  "w": "assets/signs/w.png",
+  "x": "assets/signs/x.png",
+  "y": "assets/signs/y.png",
+  "z": "assets/signs/z.png",
+
+  // Numbers
+  "0": "assets/signs/0.png",
+  "1": "assets/signs/1.png",
+  "2": "assets/signs/2.png",
+  "3": "assets/signs/3.png",
+  "4": "assets/signs/4.png",
+  "5": "assets/signs/5.png",
+  "6": "assets/signs/6.png",
+  "7": "assets/signs/7.png",
+  "8": "assets/signs/8.png",
+  "9": "assets/signs/9.png",
+
+  // Space
+  " ": "assets/signs/space.png",
+};
