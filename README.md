@@ -76,7 +76,7 @@ Both modules operate seamlessly within a single Flutter-based mobile interface, 
 * Audio feedback implemented using **Text-to-Speech (TTS)** library.
 * Speech input processing handled using **Google Speech-to-Text API**.
 
-**Accuracy Achieved:** ~95.6% on validation dataset
+**Accuracy Achieved:** ~82.6% on validation dataset
 **Average Latency:** ~1.2 seconds per gesture
 
 ---
@@ -161,18 +161,7 @@ Compared to existing global systems focused on ASL or hardware-based setups, **S
 
 ---
 
-## 12. Sustainable Development Goals (SDGs)
-
-This project aligns with the following United Nations Sustainable Development Goals:
-
-* **SDG 4: Quality Education** – Promotes inclusive learning for people with disabilities.
-* **SDG 10: Reduced Inequalities** – Encourages equal participation and accessibility for the hearing-impaired community.
-
-Through innovation in assistive technology, SignApp contributes to creating a more inclusive and equitable digital society.
-
----
-
-## 13. Conclusion
+## 12. Conclusion
 
 **SignApp** successfully demonstrates the potential of artificial intelligence and computer vision in enhancing communication accessibility for hearing and speech-impaired individuals. The system achieves high accuracy, low latency, and full offline functionality, making it a **practical, real-time assistive tool** for everyday use. By integrating ISL recognition and speech translation in a single mobile application, SignApp promotes inclusivity, social engagement, and equal opportunities through technological innovation.
 
