@@ -115,7 +115,7 @@ Both modules operate seamlessly within a single Flutter-based mobile interface, 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/SignApp.git
+   git clone https://github.com/Sign-Language-Recognition-App-using-Deep-Learning/SignApp.git
    cd SignApp
    ```
 
