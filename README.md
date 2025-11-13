@@ -9,7 +9,7 @@ Unlike conventional systems that focus on one-way translation or depend on exter
 
 **Demo:**
 
-<img src="assets/demos/demo.gif" width="300" height="350">
+<img src="assets/demos/demo.gif" width="300" height="450">
 
 
 
