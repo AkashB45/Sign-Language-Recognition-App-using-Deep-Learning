@@ -9,7 +9,8 @@ Unlike conventional systems that focus on one-way translation or depend on exter
 
 **Demo:**
 
-![Demo GIF](assets/demos/demo.gif)
+<img src="assets/demos/demo.gif" width="300" height="300">
+
 
 
 ---
