@@ -9,7 +9,8 @@ Unlike conventional systems that focus on one-way translation or depend on exter
 
 **Demo:**
 
-![Demo GIF](assets\demos\demo.gif)
+![Demo GIF](assets/demos/demo.gif)
+
 
 ---
 
