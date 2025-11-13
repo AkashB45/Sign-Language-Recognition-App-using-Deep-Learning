@@ -6,6 +6,11 @@ The **Bidirectional Communication Assistant**, titled **SignApp**, is a mobile-b
 
 Unlike conventional systems that focus on one-way translation or depend on external sensors, **SignApp** is designed to operate **entirely offline**, using only a smartphone’s camera and microphone. It specifically supports **Indian Sign Language (ISL)**, ensuring cultural and linguistic relevance for Indian users.
 
+
+**Demo:**
+
+![Demo GIF](assets\demos\demo.gif)
+
 ---
 
 ## 2. Objectives
